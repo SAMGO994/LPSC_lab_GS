@@ -1,3 +1,2 @@
-# LPSC_lab_GS_JN_SJ
-
+# LPSC_lab_GS
 YO WASSUP

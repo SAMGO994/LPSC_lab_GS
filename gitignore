@@ -1,0 +1,20 @@
+!.gitignore
+
+# exclude temporary files
+*~
+*.backup
+*.cache
+
+# exclude Vivado IDE log files
+vivado*.jou
+vivado*.log
+vivado*.str
+
+# exclude simulation and implementation files
+*.sim
+*.runs
+
+# exclude IP generated products, except .xci file
+*.srcs/*/ip/*/*
+!*.srcs/*/ip/*/*.xci
+
